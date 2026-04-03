@@ -76,7 +76,7 @@ The project's API reference can be found in the `backend` folder, in the `api` f
 
 👤 Author
 ----------
-The S3 File Manager project was created by [Your Name](https://github.com/your-username).
+The S3 File Manager project was created by Yash-Yadav-901.
 
 📝 License
 ----------

@@ -36,7 +36,7 @@ The S3 File Manager project includes the following features:
 | **Frontend** | HTML, CSS, JavaScript |
 | **Backend** | Node.js, Express.js |
 | **Tools** | Git, GitHub, npm |
-| **Database** | MongoDB |
+| **Database** | RDS |
 | **Storage** | Amazon S3 |
 
 📁 Project Structure
